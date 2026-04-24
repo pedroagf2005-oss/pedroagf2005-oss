@@ -1,34 +1,33 @@
 # Engenharia_de_Prompt_AplicacoesAI-Github.md
 este repositório tem por finalidade de atividades práticas.
-# 👋 Welcome to my GitHub Profile
+# 👋 Bem-vindo ao meu Perfil GitHub
 
 <div align="center">
   
-  **Passionate Developer | Open Source Enthusiast | Tech Innovator**
-  
-  [![GitHub followers](https://img.shields.io/github/followers/pedroagf2005-oss?style=social)](https://github.com/pedroagf2005-oss)
-  [![GitHub User's stars](https://img.shields.io/github/stars/pedroagf2005-oss?style=social)](https://github.com/pedroagf2005-oss)
+  **Desenvolvedor Apaixonado | Entusiasta de Código Aberto | Inovador em Tecnologia**  
+  [![Seguidores GitHub](https://img.shields.io/github/followers/pedroagf2005-oss?style=social)](https://github.com/pedroagf2005-oss)
+  [![Estrelas do Usuário GitHub](https://img.shields.io/github/stars/pedroagf2005-oss?style=social)](https://github.com/pedroagf2005-oss)
   
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 Sobre Mim
 
-Hello! I'm **Pedro**, a dedicated developer passionate about creating innovative solutions and contributing to the open-source community. I love exploring new technologies, solving complex problems, and sharing knowledge with fellow developers.
-
----
-
-## 💼 What I Do
-
-- 🔧 **Full-Stack Development** - Building robust applications from concept to deployment
-- 🤖 **AI & Prompt Engineering** - Leveraging AI applications and best practices
-- 📚 **Open Source** - Contributing to community-driven projects
-- 🎓 **Continuous Learning** - Always exploring emerging technologies and methodologies
+Olá! Sou **Pedro**, um desenvolvedor dedicado apaixonado por criar soluções inovadoras e contribuir para a comunidade de código aberto. Adoro explorar novas tecnologias, resolver problemas complexos e colaborar em projetos interessantes.
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 O Que Faço
+
+- 🔧 **Desenvolvimento Full-Stack** - Construindo aplicações robustas do conceito até a implantação
+- 🤖 **IA e Engenharia de Prompt** - Aproveitando aplicações de IA e melhores práticas
+- 📚 **Código Aberto** - Contribuindo para projetos impulsionados pela comunidade
+- 🎓 **Aprendizado Contínuo** - Sempre explorando tecnologias e metodologias emergentes
+
+---
+
+## 🛠️ Pilha Tecnológica
 
 <div align="center">
 
@@ -41,56 +40,58 @@ Hello! I'm **Pedro**, a dedicated developer passionate about creating innovative
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroagf2005-oss&show_icons=true&theme=radical)
+  ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=pedroagf2005-oss&show_icons=true&theme=radical)
   
 </div>
 
 ---
 
-## 🎯 Featured Projects
+## 🎯 Projetos em Destaque
 
-Here are some of my notable projects:
+Aqui estão alguns dos meus projetos notáveis:
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **Prompt Engineering Course** | Practical activities for mastering AI prompt engineering | Python, AI |
-| *Add your projects here* | *Coming soon* | *Your tech* |
-
----
-
-## 🌱 Currently Learning
-
-- Advanced AI applications and LLM optimization
-- Emerging web technologies and frameworks
-- Best practices in software architecture
+| Projeto | Descrição | Pilha Tecnológica |
+|---------|-----------|-------------------|
+| **Curso de Engenharia de Prompt** | Atividades práticas para dominar a engenharia de prompt com IA | Python, IA |
+| *Adicione seus projetos aqui* | *Em breve* | *Sua tecnologia* |
 
 ---
 
-## 📫 Get In Touch
+## 🌱 Aprendendo Atualmente
 
-I'd love to connect! Feel free to reach out:
+- Aplicações avançadas de IA e otimização de LLM
+- Tecnologias e frameworks web emergentes
+- Melhores práticas em arquitetura de software
+
+---
+
+## 📫 Entre em Contato
+
+Adoraria conectar! Sinta-se à vontade para entrar em contato:
 
 - 🔗 [GitHub](https://github.com/pedroagf2005-oss)
-- 📧 Email: *your-email@example.com*
-- 💼 LinkedIn: *your-profile-url*
-- 🐦 Twitter/X: *your-handle*
+- 📧 Email: *seu-email@example.com*
+- 💼 LinkedIn: *url-do-seu-perfil*
+- 🐦 Twitter/X: *seu-usuario*
 
 ---
 
-## 💡 Fun Facts
+## 💡 Curiosidades
 
-- 🎮 I enjoy [your hobby]
-- 🌍 Passionate about [your passion]
-- ☕ Coffee-powered developer ☕
+- 🎮 Gosto de [seu passatempo]
+- 🌍 Apaixonado por [sua paixão]
+- ☕ Desenvolvedor alimentado por café ☕
 
 ---
 
 <div align="center">
 
-**⭐ If you find my projects useful, please consider giving them a star!**
+**⭐ Se você achar meus projetos úteis, considere dar uma estrela!**
 
-*Last updated: 2026-04-24*
+*Última atualização: 2026-04-24*
+
+</div>
