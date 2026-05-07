@@ -14,7 +14,7 @@ este repositório tem por finalidade de atividades práticas.
 
 ## 🚀 Sobre Mim
 
-Olá! Sou **Pedro**, um desenvolvedor dedicado apaixonado por criar soluções inovadoras e contribuir para a comunidade de código aberto. Adoro explorar novas tecnologias, resolver problemas complexos e colaborar em projetos interessantes.
+Olá! Sou **Pedro**, um desenvolvedor dedicado apaixonado por criar soluções inovadoras e contribuir para a comunidade de código aberto. Adoro explorar novas tecnologias, resolver problemas complexos e colaborar em projetos interessantes.Meu objetivo é trabalhar em áreas de Cybersegurança!
 
 ---
 
@@ -76,7 +76,7 @@ Adoraria conectar! Sinta-se à vontade para entrar em contato:
 - 🔗 [GitHub](https://github.com/pedroagf2005-oss)
 - 📧 Email: pedroagf2005@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/pedro-augusto-1aa0323b7/*
-- 🐦 Instagram: pedro._agst
+- 🐦 Instagram: https://www.instagram.com/pedro._agst/
 
 ---
 
