@@ -74,16 +74,16 @@ Aqui estão alguns dos meus projetos notáveis:
 Adoraria conectar! Sinta-se à vontade para entrar em contato:
 
 - 🔗 [GitHub](https://github.com/pedroagf2005-oss)
-- 📧 Email: *seu-email@example.com*
-- 💼 LinkedIn: *url-do-seu-perfil*
-- 🐦 Twitter/X: *seu-usuario*
+- 📧 Email: pedroagf2005@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/pedro-augusto-1aa0323b7/*
+- 🐦 Instagram: pedro._agst
 
 ---
 
 ## 💡 Curiosidades
 
-- 🎮 Gosto de [seu passatempo]
-- 🌍 Apaixonado por [sua paixão]
+- 🎮 Gosto de jogos, música, academia e aprender progamação
+- 🌍 Apaixonado por aprender
 - ☕ Desenvolvedor alimentado por café ☕
 
 ---
