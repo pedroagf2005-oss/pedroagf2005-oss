@@ -14,7 +14,7 @@ este repositório tem por finalidade de atividades práticas.
 
 ## 🚀 Sobre Mim
 
-Olá! Sou **Pedro**, um desenvolvedor dedicado apaixonado por criar soluções inovadoras e contribuir para a comunidade de código aberto. Adoro explorar novas tecnologias, resolver problemas complexos e colaborar em projetos interessantes.Meu objetivo é trabalhar em áreas de Cybersegurança!
+Olá! Sou **Pedro**, um desenvolvedor dedicado apaixonado por criar soluções inovadoras e contribuir para a comunidade de código aberto. Adoro explorar novas tecnologias, resolver problemas com[...]
 
 ---
 
@@ -23,6 +23,7 @@ Olá! Sou **Pedro**, um desenvolvedor dedicado apaixonado por criar soluções i
 - 🔧 **Desenvolvimento Full-Stack** - Construindo aplicações robustas do conceito até a implantação
 - 🤖 **IA e Engenharia de Prompt** - Aproveitando aplicações de IA e melhores práticas
 - 📚 **Código Aberto** - Contribuindo para projetos impulsionados pela comunidade
+- 💻 **Programação em C** - Desenvolvendo software de baixo nível e sistemas eficientes
 - 🎓 **Aprendizado Contínuo** - Sempre explorando tecnologias e metodologias emergentes
 
 ---
@@ -33,6 +34,7 @@ Olá! Sou **Pedro**, um desenvolvedor dedicado apaixonado por criar soluções i
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub)
 
@@ -66,6 +68,7 @@ Aqui estão alguns dos meus projetos notáveis:
 - Aplicações avançadas de IA e otimização de LLM
 - Tecnologias e frameworks web emergentes
 - Melhores práticas em arquitetura de software
+- Desenvolvimento de sistemas eficientes em C
 
 ---
 
@@ -92,6 +95,6 @@ Adoraria conectar! Sinta-se à vontade para entrar em contato:
 
 **⭐ Se você achar meus projetos úteis, considere dar uma estrela!**
 
-*Última atualização: 2026-04-24*
+*Última atualização: 2026-08-06*
 
 </div>
